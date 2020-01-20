@@ -1,0 +1,22 @@
+section {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+h3 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline chartreuse;
+}
+
+p#name {
+    color: cyan;
+    font-size: 20px;
+}
+
+.small {
+    font-size: 7px;
+    font-style: italic;
+}
